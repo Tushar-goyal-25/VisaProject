@@ -1,0 +1,6899 @@
+{
+    "Details": [
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.25"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.39"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.41"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.39"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.41"
+        },
+        {
+            "Typeoffamilycode": "5311",
+            "spenton": "DEPARTMENT STORES",
+            "amount": "38.79"
+        },
+        {
+            "Typeoffamilycode": "9399",
+            "spenton": "GOV'T SERV - DEFAULT",
+            "amount": "38.27"
+        },
+        {
+            "Typeoffamilycode": "5641",
+            "spenton": "CHILDREN/INFANTS WEAR STORES",
+            "amount": "48.66"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "212.55"
+        },
+        {
+            "Typeoffamilycode": "9311",
+            "spenton": "TAX PAYMENTS",
+            "amount": "192.08"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "268.15"
+        },
+        {
+            "Typeoffamilycode": "4112",
+            "spenton": "PASSENGER RAILWAYS",
+            "amount": "12.91"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "44.96"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "43.68"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "51.78"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "61.01"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "70.74"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "40.42"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "53.56"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "10.1"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "10.1"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "0.99"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "0.99"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "1.02"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "1.02"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "1.04"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "1.04"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "28.9"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "28.9"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "28.81"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "28.81"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "29.21"
+        },
+        {
+            "Typeoffamilycode": "5818",
+            "spenton": "LARGE DIGITAL GOODS MERCHANT",
+            "amount": "29.21"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "97.83"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "106.92"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "120.63"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "105.38"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "134.85"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "109.95"
+        },
+        {
+            "Typeoffamilycode": "4812",
+            "spenton": "TELECOMMUNICATION EQUIPMENT",
+            "amount": "75.64"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "24.51"
+        },
+        {
+            "Typeoffamilycode": "5992",
+            "spenton": "FLORISTS",
+            "amount": "36.7"
+        },
+        {
+            "Typeoffamilycode": "5992",
+            "spenton": "FLORISTS",
+            "amount": "36.7"
+        },
+        {
+            "Typeoffamilycode": "5992",
+            "spenton": "FLORISTS",
+            "amount": "36.4"
+        },
+        {
+            "Typeoffamilycode": "5992",
+            "spenton": "FLORISTS",
+            "amount": "36.4"
+        },
+        {
+            "Typeoffamilycode": "4722",
+            "spenton": "TRAVEL AGENCIES",
+            "amount": "117.98"
+        },
+        {
+            "Typeoffamilycode": "4722",
+            "spenton": "TRAVEL AGENCIES",
+            "amount": "117.98"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "49.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.43"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.37"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "7.55"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.47"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "14.12"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "9.32"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.26"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.26"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.3"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.3"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.56"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "6.56"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.37"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "9.32"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "4.95"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "4.95"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "7.55"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "14.12"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "5.09"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "5.09"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.43"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "5.17"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.47"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "5.17"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "3.76"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "2.5"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "13.62"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "8.67"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "6.2"
+        },
+        {
+            "Typeoffamilycode": "5621",
+            "spenton": "WOMENS READY TO WEAR STORES",
+            "amount": "96.78"
+        },
+        {
+            "Typeoffamilycode": "5621",
+            "spenton": "WOMENS READY TO WEAR STORES",
+            "amount": "70.25"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "14.02"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "8.92"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5331",
+            "spenton": "VARIETY STORES",
+            "amount": "56.05"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "14.18"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "9.01"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "44.02"
+        },
+        {
+            "Typeoffamilycode": "5331",
+            "spenton": "VARIETY STORES",
+            "amount": "17.65"
+        },
+        {
+            "Typeoffamilycode": "5970",
+            "spenton": "ARTIST/CRAFT SHOPS",
+            "amount": "4.6"
+        },
+        {
+            "Typeoffamilycode": "4112",
+            "spenton": "PASSENGER RAILWAYS",
+            "amount": "24.99"
+        },
+        {
+            "Typeoffamilycode": "5661",
+            "spenton": "SHOE STORES",
+            "amount": "95.06"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "16.37"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.5"
+        },
+        {
+            "Typeoffamilycode": "7278",
+            "spenton": "BUYING/SHOPPING SERVICES",
+            "amount": "50.32"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.58"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "25.64"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.37"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.14"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "38.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "1.26"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "22.55"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.39"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.54"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "16.08"
+        },
+        {
+            "Typeoffamilycode": "7011",
+            "spenton": "",
+            "amount": "52.63"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "28.21"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.73"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.26"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.42"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.04"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.05"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "17.09"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "5.32"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "2.31"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "2.32"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "2.33"
+        },
+        {
+            "Typeoffamilycode": "5200",
+            "spenton": "HOME SUPPLY WAREHOUSE STORES",
+            "amount": "32.15"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.31"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "1.31"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "17.53"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "17.45"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "17.92"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "17.97"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "36.66"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "50.82"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "10.63"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "17.65"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "32.15"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "9.48"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "18.34"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "15.23"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "15.28"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "15.46"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "77.04"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "63.88"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "9.98"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "9.98"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "10.27"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "10.27"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "14.31"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "123.9"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.23"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.39"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "17.24"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "7.65"
+        },
+        {
+            "Typeoffamilycode": "5942",
+            "spenton": "BOOK STORES",
+            "amount": "3"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "50.2"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "31.52"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "74.27"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "299.98"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "32.27"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "20.52"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "4.45"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "9.63"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "25.6"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.95"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.95"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "50.2"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "38.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "38.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "8.9"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "8.9"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "89.58"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "20.52"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "89.58"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "83.74"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "83.74"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "4.45"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "32.27"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.88"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.88"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.5"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.5"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "123.9"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "63.82"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "63.82"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "10.68"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "10.68"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "74.46"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "74.46"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "74.27"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "31.52"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "69.35"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "69.35"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "16.46"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "16.46"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "21.32"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "21.32"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "30.7"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "30.7"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.23"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "22.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "21.18"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "22.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "21.18"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.78"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.78"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "23.63"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "23.63"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "22.65"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "22.65"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "27.19"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "27.19"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "20.53"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "20.53"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.39"
+        },
+        {
+            "Typeoffamilycode": "5942",
+            "spenton": "BOOK STORES",
+            "amount": "3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.44"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.44"
+        },
+        {
+            "Typeoffamilycode": "5735",
+            "spenton": "RECORD STORES",
+            "amount": "6.44"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "9.63"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "67.21"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "67.21"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "93.63"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "93.63"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "30.62"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "30.62"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "92.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "92.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "17.51"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "32.45"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "17.51"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "32.45"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "26.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "60.19"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "26.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "60.19"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "104.87"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "104.87"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "169.13"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "169.13"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "17.24"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "205.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "205.01"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "44.62"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "44.62"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.82"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.82"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "7.65"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "37.79"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "37.79"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "14.31"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "156.7"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "156.7"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "69.67"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "69.67"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "25.6"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "113.39"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "113.39"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.53"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.53"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "146.13"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "146.13"
+        },
+        {
+            "Typeoffamilycode": "5969",
+            "spenton": "OTHER DIRECT MARKETERS",
+            "amount": "299.98"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "61.94"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "64.52"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.51"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "24.51"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "61.94"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "64.52"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.07"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "19.35"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "19.35"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "23.22"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "15.46"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "15.46"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "23.22"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "18.07"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "4.5"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "4.5"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "10.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "10.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "176.02"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "176.02"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "25.58"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "25.58"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.15"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.46"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.33"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.28"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.65"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "122.45"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.28"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.82"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.42"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.69"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.28"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.33"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.69"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.28"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.42"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.82"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.15"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.46"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "11.65"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "122.45"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "5942",
+            "spenton": "BOOK STORES",
+            "amount": "54.53"
+        },
+        {
+            "Typeoffamilycode": "5942",
+            "spenton": "BOOK STORES",
+            "amount": "54.53"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "5968",
+            "spenton": "CONTINUITY/SUBSCRIPTION MERCHT",
+            "amount": "14.99"
+        },
+        {
+            "Typeoffamilycode": "7991",
+            "spenton": "TOURIST ATTRACTIONS AND XHBT",
+            "amount": "4.37"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "16.77"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "13.15"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "13.15"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "40.44"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "40.44"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "37.95"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "37.95"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.67"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "9.19"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "10.75"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "10.88"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.34"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.52"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.65"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.52"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.87"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "27.12"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "28.39"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "20.68"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.75"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "64.75"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "83.77"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "6.51"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.01"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.13"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "12.6"
+        },
+        {
+            "Typeoffamilycode": "5732",
+            "spenton": "ELECTRONICS STORES",
+            "amount": "1.27"
+        },
+        {
+            "Typeoffamilycode": "5732",
+            "spenton": "ELECTRONICS STORES",
+            "amount": "1.27"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "18.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "61.7"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "61.7"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "9.79"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "3.47"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.6"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "87.26"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "116.99"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "45.39"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "45.19"
+        },
+        {
+            "Typeoffamilycode": "4900",
+            "spenton": "UTILITIES/ELEC/GAS/H2O/SANI",
+            "amount": "38.67"
+        },
+        {
+            "Typeoffamilycode": "4900",
+            "spenton": "UTILITIES/ELEC/GAS/H2O/SANI",
+            "amount": "64.45"
+        },
+        {
+            "Typeoffamilycode": "4900",
+            "spenton": "UTILITIES/ELEC/GAS/H2O/SANI",
+            "amount": "65.74"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "21.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "80.65"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.88"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "170.42"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.97"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "73.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "81.92"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "18.53"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "72.36"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "30.98"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "25.11"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "24.72"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "1.88"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "1.88"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "2.6"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "25.52"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "9.57"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "3.9"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "25.77"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "25.77"
+        },
+        {
+            "Typeoffamilycode": "4121",
+            "spenton": "TAXICABS/LIMOUSINES",
+            "amount": "41.81"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.02"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.7"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "74.33"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "7"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "45.21"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "14.16"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "91.8"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "141.49"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "6.13"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "139.59"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "20.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "99.18"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "1.71"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "76.11"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "15.69"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "31.26"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "30.05"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "37.55"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "32.49"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "5.4"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "20.09"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "2.44"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.7"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.94"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.94"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "158.4"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "11.92"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "3.35"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.14"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "9.82"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "6.24"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "54.77"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.71"
+        },
+        {
+            "Typeoffamilycode": "5261",
+            "spenton": "NURSERIES, LAWN/GARDEN SUPPLY",
+            "amount": "9.29"
+        },
+        {
+            "Typeoffamilycode": "5261",
+            "spenton": "NURSERIES, LAWN/GARDEN SUPPLY",
+            "amount": "35.24"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "5.74"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "13.11"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "8.35"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "8.35"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "10.2"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "15.12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "15.87"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.81"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.68"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.53"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "47.05"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "19.3"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "19.3"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.94"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.94"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.08"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11.96"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "15.34"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.65"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "6.88"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "9.99"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19.86"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "20.08"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "6.23"
+        },
+        {
+            "Typeoffamilycode": "8999",
+            "spenton": "PROFESSIONAL SERVICES - DEF",
+            "amount": "6.23"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "29.67"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "3.23"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "10.76"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "25.99"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "14"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.46"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.57"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "0.15"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "12.72"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "22.06"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "7.1"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "38.63"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "27.11"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "46.21"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "36.89"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "5.08"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "11.4"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "10.04"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "44.5"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "11.17"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.23"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "14"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "11.46"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "12.09"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "4.5"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "15.24"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "14.78"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "61.42"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "1.3"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "10.97"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "39.44"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "73.42"
+        },
+        {
+            "Typeoffamilycode": "5943",
+            "spenton": "STATIONERY STORES",
+            "amount": "18.61"
+        },
+        {
+            "Typeoffamilycode": "5943",
+            "spenton": "STATIONERY STORES",
+            "amount": "23.18"
+        },
+        {
+            "Typeoffamilycode": "5943",
+            "spenton": "STATIONERY STORES",
+            "amount": "20.59"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "93.18"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.2"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.2"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "7.7"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "15.28"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "15.28"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "23.62"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "49.82"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "36.14"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "23.25"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "19.44"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "25.59"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "11.3"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "17.94"
+        },
+        {
+            "Typeoffamilycode": "9399",
+            "spenton": "GOV'T SERV - DEFAULT",
+            "amount": "11.66"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "23.97"
+        },
+        {
+            "Typeoffamilycode": "4112",
+            "spenton": "PASSENGER RAILWAYS",
+            "amount": "23.88"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "16.05"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "5.91"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "25.46"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "27.31"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "32.97"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "41.25"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "29.09"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.16"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "25.87"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "13.68"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "7.07"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "6.44"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.44"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "2.5"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.62"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.65"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "6.48"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "10.58"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "14.17"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.14"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.69"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.22"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.67"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "6.21"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "2.16"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "36.52"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "21.26"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.68"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "48.77"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "19.36"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.02"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "10.29"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.12"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "2.92"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "6.39"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.4"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.05"
+        },
+        {
+            "Typeoffamilycode": "5532",
+            "spenton": "AUTOMOTIVE TIRE STORES",
+            "amount": "166.13"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "76.38"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "76.38"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "8.06"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "6.99"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.14"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "7.21"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "56.72"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.96"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "13.13"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "15.47"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.21"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "9402",
+            "spenton": "POSTAGE STAMPS",
+            "amount": "14.72"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.08"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.79"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "13.08"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.04"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.8"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "11.86"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.42"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.79"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.02"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "1.15"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.61"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.03"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "36.76"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "6.5"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "32.72"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.34"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "1.66"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "3.35"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "7.28"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.71"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "36.29"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "11.66"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "32.49"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "42.34"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "34.95"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "48.52"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "54.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "36.09"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.26"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.26"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "21.56"
+        },
+        {
+            "Typeoffamilycode": "9399",
+            "spenton": "GOV'T SERV - DEFAULT",
+            "amount": "3.92"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "3.74"
+        },
+        {
+            "Typeoffamilycode": "8021",
+            "spenton": "DENTISTS/ORTHODONTISTS",
+            "amount": "32.58"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "27.84"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "27.84"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "14.01"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "2.55"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "13.63"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "62.64"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "62.64"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "6.04"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "6.04"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "28.63"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "21.04"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "8.74"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "7.42"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "7.42"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "12.55"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "26.4"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "10.29"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "28.78"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "11.8"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "3.01"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "32.9"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "61.66"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "9.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.6"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "14.22"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "1.97"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "2.03"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "2.06"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "14.87"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "15.29"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "15.54"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "1.97"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "14.87"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "15.29"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "2.03"
+        },
+        {
+            "Typeoffamilycode": "4899",
+            "spenton": "CABLE, SAT, PAY TV/RADIO SVCS",
+            "amount": "15.54"
+        },
+        {
+            "Typeoffamilycode": "5734",
+            "spenton": "COMPUTER SOFTWARE STORES",
+            "amount": "2.06"
+        },
+        {
+            "Typeoffamilycode": "7996",
+            "spenton": "AMUSEMENT PARKS/CIRCUS",
+            "amount": "3.73"
+        },
+        {
+            "Typeoffamilycode": "7996",
+            "spenton": "AMUSEMENT PARKS/CIRCUS",
+            "amount": "3.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "11.28"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.99"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.98"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "6.83"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "0.64"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.99"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.98"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "6.83"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "0.64"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.57"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.57"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "40.13"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "40.13"
+        },
+        {
+            "Typeoffamilycode": "5732",
+            "spenton": "ELECTRONICS STORES",
+            "amount": "62.51"
+        },
+        {
+            "Typeoffamilycode": "5732",
+            "spenton": "ELECTRONICS STORES",
+            "amount": "62.51"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "20.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.97"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "20.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.97"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "25.48"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "25.48"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "24.17"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "24.17"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "20.75"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "20.75"
+        },
+        {
+            "Typeoffamilycode": "8043",
+            "spenton": "OPTICIANS",
+            "amount": "13"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "21.53"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "72.92"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "28.85"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "28.93"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "28.93"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "5.26"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "28.93"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "28.93"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "59.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "23.78"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "23.78"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.47"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.47"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.46"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.46"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.47"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.47"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.97"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.99"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "0.99"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.49"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.49"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.49"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.49"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.5"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.5"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.14"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.14"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.51"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.51"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "16.17"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "16.17"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.23"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "21.23"
+        },
+        {
+            "Typeoffamilycode": "4112",
+            "spenton": "PASSENGER RAILWAYS",
+            "amount": "6.01"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "18.39"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.75"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "42.3"
+        },
+        {
+            "Typeoffamilycode": "7299",
+            "spenton": "MISC PERSONAL SERV - DEF",
+            "amount": "35.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.51"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.51"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.75"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "42.3"
+        },
+        {
+            "Typeoffamilycode": "7299",
+            "spenton": "MISC PERSONAL SERV - DEF",
+            "amount": "35.22"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "13.41"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19.33"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.48"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.18"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "18.26"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "18.49"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.45"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.5"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "14.28"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "20.74"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "20.57"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "6.23"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "7.18"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.49"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "13.35"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.06"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "6.88"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.17"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.38"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "34.12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "17.93"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "2.49"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "2.49"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "14.67"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "55.4"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "3.63"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "3.63"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "55.4"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "54.53"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "54.53"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "22.66"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "22.66"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "22.32"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "22.32"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "47.03"
+        },
+        {
+            "Typeoffamilycode": "8699",
+            "spenton": "MEMBER ORGANIZATIONS - DEF",
+            "amount": "44.34"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "38.8"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "25.81"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "107.71"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "104.52"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.63"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "94.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "42.78"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.95"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "77.94"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "66.42"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "37.43"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "7.53"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "67.21"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "15.74"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "27.72"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.31"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.31"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "4.88"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "6.18"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.04"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "29.69"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "29.69"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "53.3"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "53.3"
+        },
+        {
+            "Typeoffamilycode": "7996",
+            "spenton": "AMUSEMENT PARKS/CIRCUS",
+            "amount": "4.39"
+        },
+        {
+            "Typeoffamilycode": "7996",
+            "spenton": "AMUSEMENT PARKS/CIRCUS",
+            "amount": "7.4"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "14.17"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.94"
+        },
+        {
+            "Typeoffamilycode": "7929",
+            "spenton": "BANDS/ORCHESTRAS/ENTERTAIN",
+            "amount": "75.38"
+        },
+        {
+            "Typeoffamilycode": "7929",
+            "spenton": "BANDS/ORCHESTRAS/ENTERTAIN",
+            "amount": "6.27"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.87"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.87"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.39"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.39"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "11.96"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "11.96"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.42"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.42"
+        },
+        {
+            "Typeoffamilycode": "4215",
+            "spenton": "COURIER SERVICES",
+            "amount": "36.31"
+        },
+        {
+            "Typeoffamilycode": "7929",
+            "spenton": "BANDS/ORCHESTRAS/ENTERTAIN",
+            "amount": "75.38"
+        },
+        {
+            "Typeoffamilycode": "7929",
+            "spenton": "BANDS/ORCHESTRAS/ENTERTAIN",
+            "amount": "6.27"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.97"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "24.8"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.86"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "15.23"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "34.17"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "35.34"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "5.26"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "14.46"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "3.94"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "5.26"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "2.55"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "23.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "23.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "2.55"
+        },
+        {
+            "Typeoffamilycode": "7399",
+            "spenton": "BUSINESS SERVICES - DEFAULT",
+            "amount": "2.62"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "62.58"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "133.03"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "133.03"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "62.58"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "6.41"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "97.84"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "97.84"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "62.44"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "62.44"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "24.8"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "123.36"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.73"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "40.2"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "99.55"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "99.55"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "40.2"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "99.39"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "99.39"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "52.59"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "52.59"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "6.68"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "6.68"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.97"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.03"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "26.22"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "12.39"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "59.56"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "59.56"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "26.13"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "9"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.15"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.15"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "37.84"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.57"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "6.74"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "6.74"
+        },
+        {
+            "Typeoffamilycode": "7399",
+            "spenton": "BUSINESS SERVICES - DEFAULT",
+            "amount": "2.62"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "10.14"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "23.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "23.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "2.55"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "2.55"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.87"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.87"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "12.75"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "18.33"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "69.5"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "27.1"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "27.1"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "9.59"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "8.95"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "9.59"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "28.1"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "6.83"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.12"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.12"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "77.31"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "12.88"
+        },
+        {
+            "Typeoffamilycode": "5311",
+            "spenton": "DEPARTMENT STORES",
+            "amount": "9.41"
+        },
+        {
+            "Typeoffamilycode": "5311",
+            "spenton": "DEPARTMENT STORES",
+            "amount": "11.92"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "18.19"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "13.71"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "26.78"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "18.19"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "26.78"
+        },
+        {
+            "Typeoffamilycode": "5816",
+            "spenton": "DIGITAL GOODS GAMES",
+            "amount": "12.39"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.65"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.65"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "25.75"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "25.75"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "35.06"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "35.06"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "44.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "44.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "50.23"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "50.23"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "26.95"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "26.95"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "14.11"
+        },
+        {
+            "Typeoffamilycode": "5816",
+            "spenton": "DIGITAL GOODS GAMES",
+            "amount": "7.63"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "47.39"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "47.39"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "14.42"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "40.01"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "31.5"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "31.5"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "40.01"
+        },
+        {
+            "Typeoffamilycode": "5311",
+            "spenton": "DEPARTMENT STORES",
+            "amount": "9.79"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "48.4"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "48.4"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "24.93"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "24.93"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "65.54"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "65.54"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "15.95"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "15.95"
+        },
+        {
+            "Typeoffamilycode": "4215",
+            "spenton": "COURIER SERVICES",
+            "amount": "36.31"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "9.99"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "9.99"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "16.6"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "145.51"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "149.08"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "149.08"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "145.51"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.42"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "66.63"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "66.63"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "8.33"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "60.74"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.06"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "60.74"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "5.78"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "5.78"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "46.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.86"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "46.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.87"
+        },
+        {
+            "Typeoffamilycode": "5611",
+            "spenton": "MEN/BOYS CLOTHING/ACC STORES",
+            "amount": "121.2"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "8.23"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "3.8"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "3.8"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "18.46"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.73"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "18.46"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.73"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "8.28"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "8.28"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "7.07"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "7.07"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "57.89"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "57.89"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "14.46"
+        },
+        {
+            "Typeoffamilycode": "5971",
+            "spenton": "ART DEALERS & GALLERIES",
+            "amount": "6.57"
+        },
+        {
+            "Typeoffamilycode": "5971",
+            "spenton": "ART DEALERS & GALLERIES",
+            "amount": "6.57"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "24.54"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "15.23"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "129.21"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "122.43"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "4.64"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "75.19"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "22.94"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "34.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "26.35"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "122.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.91"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "3.47"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "7.5"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "12.59"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "13.87"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "19.23"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "18.72"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "31.67"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "31.67"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "3.82"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "3.82"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "13.72"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "137.15"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "7.02"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "7.02"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "3.64"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "13.04"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "4.39"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "10.8"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "3.9"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "7.01"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "2.88"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "33.03"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "6.28"
+        },
+        {
+            "Typeoffamilycode": "4112",
+            "spenton": "PASSENGER RAILWAYS",
+            "amount": "24.07"
+        },
+        {
+            "Typeoffamilycode": "7395",
+            "spenton": "PHOTOFINISH LABS/DEV",
+            "amount": "26.45"
+        },
+        {
+            "Typeoffamilycode": "7395",
+            "spenton": "PHOTOFINISH LABS/DEV",
+            "amount": "26.45"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "49.99"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "16.04"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "14.15"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "45.66"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11.41"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11.41"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.03"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "2.31"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.2"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "27.46"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "47.18"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.96"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "76.09"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.66"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "22.4"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "37.16"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "47.19"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "77.77"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "9.54"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "14.92"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "9.38"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "53.87"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "28.6"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "23.86"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "106.14"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "6.12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "45.32"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "12.3"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "44.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "164.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "30.28"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "24.1"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "0.37"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "14.79"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "67.38"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "26.79"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "13.92"
+        },
+        {
+            "Typeoffamilycode": "5542",
+            "spenton": "AUTOMATED FUEL DISPENSERS",
+            "amount": "65.92"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "7.36"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "53.59"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.66"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "15.06"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "54.12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "14.42"
+        },
+        {
+            "Typeoffamilycode": "5310",
+            "spenton": "DISCOUNT STORES",
+            "amount": "4.51"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "30.53"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "22.19"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "15.2"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "81.3"
+        },
+        {
+            "Typeoffamilycode": "8099",
+            "spenton": "MED/HEALTH SERVICES - DEF",
+            "amount": "88.24"
+        },
+        {
+            "Typeoffamilycode": "8099",
+            "spenton": "MED/HEALTH SERVICES - DEF",
+            "amount": "88.24"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "1.26"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "0.95"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "15.76"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19.6"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "28.38"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "83.54"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.06"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "27.5"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.06"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "68.77"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "81.39"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "18.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "14.61"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "14.61"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "26.6"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "21.8"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "51.91"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "15.19"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "1.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.74"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.74"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "54.74"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "54.74"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.26"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "9.1"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "3.67"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.26"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "21.66"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.25"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.33"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.33"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "37.12"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "70.69"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.33"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.33"
+        },
+        {
+            "Typeoffamilycode": "5251",
+            "spenton": "HARDWARE STORES",
+            "amount": "8.64"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "13.37"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "13.37"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "13.97"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "1.8"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.7"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.7"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "50.57"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "200.52"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "10.96"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "10.96"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "17.81"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "12.4"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "1.84"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.21"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "8.21"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "6.46"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "21.28"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "14.7"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "64.19"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "23.23"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "41.3"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "10"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "9.51"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "16.46"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "3.24"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "71.3"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "16.12"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "50.23"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "28.36"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "104.28"
+        },
+        {
+            "Typeoffamilycode": "5993",
+            "spenton": "CIGAR STORES/STANDS",
+            "amount": "7.73"
+        },
+        {
+            "Typeoffamilycode": "5399",
+            "spenton": "MISC GENERAL MERCHANDISE",
+            "amount": "14.27"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.03"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "9.28"
+        },
+        {
+            "Typeoffamilycode": "7230",
+            "spenton": "BEAUTY/BARBER SHOPS",
+            "amount": "15.47"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.39"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "2.01"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.5"
+        },
+        {
+            "Typeoffamilycode": "5046",
+            "spenton": "COMMERCIAL EQUIPMENT - DEFAULT",
+            "amount": "2.39"
+        },
+        {
+            "Typeoffamilycode": "5046",
+            "spenton": "COMMERCIAL EQUIPMENT - DEFAULT",
+            "amount": "2.39"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "114.64"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "40.15"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "37.27"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "76.21"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "25.25"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "18.74"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "14.65"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.82"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.82"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "1.88"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "1.88"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "34.3"
+        },
+        {
+            "Typeoffamilycode": "5811",
+            "spenton": "CATERERS",
+            "amount": "11.88"
+        },
+        {
+            "Typeoffamilycode": "5691",
+            "spenton": "MENS/WOMENS CLOTHING STORES",
+            "amount": "163.38"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "40.79"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "18.56"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "26.8"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "13.85"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "13.85"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11.83"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.8"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "19.01"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "16.66"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "14.53"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "2.79"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "17.02"
+        },
+        {
+            "Typeoffamilycode": "5111",
+            "spenton": "STATIONERY/OFFICE SUPPLIES",
+            "amount": "1.61"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "96.84"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "24.98"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "2.54"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "101.87"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "38.24"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "23.29"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "3.89"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "45.62"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.74"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.75"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.75"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.86"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.86"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "27.59"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "14.84"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "10.76"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.16"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "10.76"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "3.16"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.1"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.1"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "15.29"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "35.48"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.94"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "13.94"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "5.78"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "24.86"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "31.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "31.91"
+        },
+        {
+            "Typeoffamilycode": "7929",
+            "spenton": "BANDS/ORCHESTRAS/ENTERTAIN",
+            "amount": "8.79"
+        },
+        {
+            "Typeoffamilycode": "7997",
+            "spenton": "MEMBER CLUBS/SPORT/REC/GOLF",
+            "amount": "9.16"
+        },
+        {
+            "Typeoffamilycode": "7997",
+            "spenton": "MEMBER CLUBS/SPORT/REC/GOLF",
+            "amount": "6.28"
+        },
+        {
+            "Typeoffamilycode": "7997",
+            "spenton": "MEMBER CLUBS/SPORT/REC/GOLF",
+            "amount": "10.17"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "13.85"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "13.8"
+        },
+        {
+            "Typeoffamilycode": "5815",
+            "spenton": "DIGITAL GOODS BOOKSMOVIEMUSIC",
+            "amount": "14"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.8"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.68"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "6.61"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "4.77"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "49.57"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "27.53"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.76"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "10.65"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.76"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "107.26"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "43.65"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "121.64"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "19.96"
+        },
+        {
+            "Typeoffamilycode": "9402",
+            "spenton": "POSTAGE STAMPS",
+            "amount": "99.18"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "72.81"
+        },
+        {
+            "Typeoffamilycode": "7278",
+            "spenton": "BUYING/SHOPPING SERVICES",
+            "amount": "57.01"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "39.89"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "101.95"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "18.57"
+        },
+        {
+            "Typeoffamilycode": "5422",
+            "spenton": "FREEZER/MEAT LOCKERS",
+            "amount": "14.88"
+        },
+        {
+            "Typeoffamilycode": "5422",
+            "spenton": "FREEZER/MEAT LOCKERS",
+            "amount": "14.88"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "54.62"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "60.92"
+        },
+        {
+            "Typeoffamilycode": "9402",
+            "spenton": "POSTAGE STAMPS",
+            "amount": "63.76"
+        },
+        {
+            "Typeoffamilycode": "5422",
+            "spenton": "FREEZER/MEAT LOCKERS",
+            "amount": "36.89"
+        },
+        {
+            "Typeoffamilycode": "5422",
+            "spenton": "FREEZER/MEAT LOCKERS",
+            "amount": "36.89"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "15.7"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "15.7"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "53.03"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "51.38"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "8.6"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "8.6"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "20.7"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "25.86"
+        },
+        {
+            "Typeoffamilycode": "4131",
+            "spenton": "BUS LINES",
+            "amount": "25.86"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "78.04"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.13"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "3.89"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.25"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.39"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "6.12"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "2.96"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "154.63"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "21.59"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "209.51"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "209.51"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "119.12"
+        },
+        {
+            "Typeoffamilycode": "5655",
+            "spenton": "SPORTS/RIDING APPAREL STORES",
+            "amount": "119.12"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.39"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.47"
+        },
+        {
+            "Typeoffamilycode": "4814",
+            "spenton": "TELECOMMUNICATION SERVICES",
+            "amount": "12.78"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "111.52"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "70.82"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "143.83"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "78.13"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "58.58"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "80.89"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "88.86"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.45"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "35.49"
+        },
+        {
+            "Typeoffamilycode": "5541",
+            "spenton": "SERVICE STATIONS",
+            "amount": "60.66"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "78.26"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "119.21"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "37.56"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "27.39"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "3.14"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "3.14"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "13.36"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "22.68"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "127.38"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "21.69"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "12.34"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "2.77"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.28"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.64"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.23"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.22"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.47"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.75"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.78"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.73"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "5.78"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.62"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.74"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "9.18"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "16.21"
+        },
+        {
+            "Typeoffamilycode": "5462",
+            "spenton": "BAKERIES",
+            "amount": "16.21"
+        },
+        {
+            "Typeoffamilycode": "5947",
+            "spenton": "GIFT, CARD, NOVELTY STORES",
+            "amount": "26.57"
+        },
+        {
+            "Typeoffamilycode": "7832",
+            "spenton": "MOTION PICTURE THEATRES",
+            "amount": "8.39"
+        },
+        {
+            "Typeoffamilycode": "5994",
+            "spenton": "NEWS DEALERS/NEWSSTANDS",
+            "amount": "7.59"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "6.46"
+        },
+        {
+            "Typeoffamilycode": "7999",
+            "spenton": "RECREATION SERVICES",
+            "amount": "1.88"
+        },
+        {
+            "Typeoffamilycode": "5944",
+            "spenton": "JEWELRY STORES",
+            "amount": "161.93"
+        },
+        {
+            "Typeoffamilycode": "5651",
+            "spenton": "FAMILY CLOTHING STORES",
+            "amount": "84.98"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "38.16"
+        },
+        {
+            "Typeoffamilycode": "5651",
+            "spenton": "FAMILY CLOTHING STORES",
+            "amount": "48.42"
+        },
+        {
+            "Typeoffamilycode": "5651",
+            "spenton": "FAMILY CLOTHING STORES",
+            "amount": "5.2"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "14.95"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "12.34"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "24.69"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "7.8"
+        },
+        {
+            "Typeoffamilycode": "5621",
+            "spenton": "WOMENS READY TO WEAR STORES",
+            "amount": "22.08"
+        },
+        {
+            "Typeoffamilycode": "5651",
+            "spenton": "FAMILY CLOTHING STORES",
+            "amount": "79.64"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "31.36"
+        },
+        {
+            "Typeoffamilycode": "5912",
+            "spenton": "DRUG STORES & PHARMACIES",
+            "amount": "7.73"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "84.02"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "7.74"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "20.13"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "30.88"
+        },
+        {
+            "Typeoffamilycode": "5651",
+            "spenton": "FAMILY CLOTHING STORES",
+            "amount": "50.98"
+        },
+        {
+            "Typeoffamilycode": "5699",
+            "spenton": "MISC APPAREL/ACCESS STORES",
+            "amount": "20.81"
+        },
+        {
+            "Typeoffamilycode": "5499",
+            "spenton": "MISC FOOD STORES - DEFAULT",
+            "amount": "8.22"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "5.16"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "4.96"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "5.07"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "8.02"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "5.2"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "69.79"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "12.19"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.65"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.76"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "15.75"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.84"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.84"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "2.2"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.64"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.62"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "4.37"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "4.37"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "17.74"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "17.77"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "15.49"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "2.17"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.55"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.69"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "4.39"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "16.82"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.57"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "17.82"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "12.47"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "2.2"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.82"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "15.99"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "2.25"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.14"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "24.88"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "11.99"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "13.01"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.02"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "17.86"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.99"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.22"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "14.7"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "4.5"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "8.41"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "16.26"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.58"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.56"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.46"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "2.26"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.36"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "15.94"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "19.2"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "12.89"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "13.06"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "8.13"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "12.02"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "13.37"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "16.45"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "13.36"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "8.42"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "23.31"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.98"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "16.45"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "18.4"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "13.42"
+        },
+        {
+            "Typeoffamilycode": "4111",
+            "spenton": "LOCAL COMMUTER TRANSPORT",
+            "amount": "15.04"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "27.67"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "17.91"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "23.13"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "59.31"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "1.15"
+        },
+        {
+            "Typeoffamilycode": "5261",
+            "spenton": "NURSERIES, LAWN/GARDEN SUPPLY",
+            "amount": "7.22"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "23.56"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "16.12"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "17.31"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "16.56"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "31.59"
+        },
+        {
+            "Typeoffamilycode": "5411",
+            "spenton": "GROCERY STORES/SUPERMARKETS",
+            "amount": "12.08"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "11.59"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "14.3"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "14.3"
+        },
+        {
+            "Typeoffamilycode": "5814",
+            "spenton": "FAST FOOD RESTAURANTS",
+            "amount": "8.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "19.35"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "31.53"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "31.53"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "31.53"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "31.53"
+        },
+        {
+            "Typeoffamilycode": "5813",
+            "spenton": "BARS/TAVERNS/LOUNGES/DISCOS",
+            "amount": "19.35"
+        },
+        {
+            "Typeoffamilycode": "8398",
+            "spenton": "CHARITABLE/SOC SERVICE ORGS",
+            "amount": "8.74"
+        },
+        {
+            "Typeoffamilycode": "7399",
+            "spenton": "BUSINESS SERVICES - DEFAULT",
+            "amount": "43.63"
+        },
+        {
+            "Typeoffamilycode": "7399",
+            "spenton": "BUSINESS SERVICES - DEFAULT",
+            "amount": "43.63"
+        },
+        {
+            "Typeoffamilycode": "5941",
+            "spenton": "SPORTING GOODS STORES",
+            "amount": "14.13"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "37.57"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.02"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "7.02"
+        },
+        {
+            "Typeoffamilycode": "5812",
+            "spenton": "RESTAURANTS",
+            "amount": "37.57"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.43"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "12.3"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "60"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "182.95"
+        },
+        {
+            "Typeoffamilycode": "5999",
+            "spenton": "MISC SPECIALTY RETAIL",
+            "amount": "165.49"
+        },
+        {
+            "Typeoffamilycode": "7922",
+            "spenton": "THEATRICAL PRODUCERS",
+            "amount": "131.19"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "125.13"
+        },
+        {
+            "Typeoffamilycode": "7523",
+            "spenton": "PARKING LOTS,METERS,GARAGES",
+            "amount": "75.56"
+        }
+    ]
+}

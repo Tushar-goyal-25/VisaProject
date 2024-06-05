@@ -32,3 +32,4 @@ function createQuestion(strin, opt1, opt2,opt3,opt4){
 }
 
 createQuestion("How old are you?", "18-28", "29-40", "40-59", "60+");
+
